@@ -32,7 +32,7 @@ double tangent(double num1) {
 int main() {
     // Print the title
     printf("\nAngel's Calculator ");
-    printf("\xC2\xA9 2024 \n \n");
+    printf("Copyright 2024 \n \n");
 
     // Get the type of operation
     printf("Enter Type? \n");
